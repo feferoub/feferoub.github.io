@@ -1,9 +1,9 @@
 [
         {
-            "brand": "Electrolux",
-            "brand_slug": "electrolux",
+            "brand": "Machine de Test",
+            "brand_slug": "machine",
             "model_reference": " EEC5799BOX",
-            "model_reference_slug": "eec5799box",
+            "model_reference_slug": "test",
             "product_type": "Four & cuisinière",
             "product_type_slug": "four-cuisiniere",
             "commercial_category": "standard",
@@ -49,10 +49,10 @@
             "selling_picture_5": ""
         },
         {
-            "brand": "Electrolux",
-            "brand_slug": "electrolux",
+            "brand": "Machine de Test",
+            "brand_slug": "machine",
             "model_reference": " EEC5799BOX",
-            "model_reference_slug": "eec5799box",
+            "model_reference_slug": "test",
             "product_type": "Four & cuisinière",
             "product_type_slug": "four-cuisiniere",
             "commercial_category": "standard",
@@ -98,10 +98,10 @@
             "selling_picture_5": ""
         },
         {
-            "brand": "Electrolux",
-            "brand_slug": "electrolux",
+            "brand": "Machine de Test",
+            "brand_slug": "machine",
             "model_reference": " EEC5799BOX",
-            "model_reference_slug": "eec5799box",
+            "model_reference_slug": "test",
             "product_type": "Four & cuisinière",
             "product_type_slug": "four-cuisiniere",
             "commercial_category": "standard",
