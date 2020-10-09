@@ -1,8 +1,4 @@
-{
-    "count": 1,
-    "next": null,
-    "previous": null,
-    "results": [
+[
         {
             "brand": "Electrolux",
             "brand_slug": "electrolux",
@@ -51,6 +47,104 @@
             "selling_picture_3": "",
             "selling_picture_4": "",
             "selling_picture_5": ""
-        }
+        },
+        {
+            "brand": "Electrolux",
+            "brand_slug": "electrolux",
+            "model_reference": " EEC5799BOX",
+            "model_reference_slug": "eec5799box",
+            "product_type": "Four & cuisinière",
+            "product_type_slug": "four-cuisiniere",
+            "commercial_category": "standard",
+            "commercial_category_slug": "standard",
+            "subcategory1": "Four multifonction pyrolyse",
+            "subcategory2": "Encastrable simple",
+            "appearance": "Bon état",
+            "appearance_slug": "correct_condition",
+            "appearance_comments": "",
+            "market_selling_price": 52800,
+            "price": 20900,
+            "color": "Noir",
+            "functional_characteristics": {
+                "Dimensions": {
+                    "H": "59",
+                    "L": "59",
+                    "P": "57"
+                },
+                "Poids (en kg)": "36 kg",
+                "Type de froid": "",
+                "Type de cuisson": "Chaleur tournante",
+                "Capacité (en L)": "72 L",
+                "Type de séchage": "",
+                "Capacité (en kg)": "",
+                "Vitesse d'essorage": "",
+                "Classe énergétique": "A",
+                "Niveau sonore (en db)": "",
+                "Dimensions d'encastrement": {
+                    "H": "",
+                    "L": null,
+                    "P": null
+                },
+                "Capacité (en nombre de feux)": "",
+                "Capacité (en nombre de couverts)": "",
+                "Capacité (en L) partie congélateur": null,
+                "Capacité (en L) partie réfrigérateur": null,
+                "Capacité (en nombre de feux) si cuisinière": ""
+            },
+            "selling_picture_1": "https://res.cloudinary.com/cobble/image/upload/v1592571412/PHOTOS%20RECO/2-PHOTOS%20TRAIT%C3%89ES/1611_Face.jpg",
+            "selling_picture_2": "",
+            "selling_picture_3": "",
+            "selling_picture_4": "",
+            "selling_picture_5": ""
+        },
+        {
+            "brand": "Electrolux",
+            "brand_slug": "electrolux",
+            "model_reference": " EEC5799BOX",
+            "model_reference_slug": "eec5799box",
+            "product_type": "Four & cuisinière",
+            "product_type_slug": "four-cuisiniere",
+            "commercial_category": "standard",
+            "commercial_category_slug": "standard",
+            "subcategory1": "Four multifonction pyrolyse",
+            "subcategory2": "Encastrable simple",
+            "appearance": "Comme neuf",
+            "appearance_slug": "like_new",
+            "appearance_comments": "",
+            "market_selling_price": 52800,
+            "price": 48050,
+            "color": "Noir",
+            "functional_characteristics": {
+                "Dimensions": {
+                    "H": "59",
+                    "L": "59",
+                    "P": "57"
+                },
+                "Poids (en kg)": "36 kg",
+                "Type de froid": "",
+                "Type de cuisson": "Chaleur tournante",
+                "Capacité (en L)": "72 L",
+                "Type de séchage": "",
+                "Capacité (en kg)": "",
+                "Vitesse d'essorage": "",
+                "Classe énergétique": "A",
+                "Niveau sonore (en db)": "",
+                "Dimensions d'encastrement": {
+                    "H": "",
+                    "L": null,
+                    "P": null
+                },
+                "Capacité (en nombre de feux)": "",
+                "Capacité (en nombre de couverts)": "",
+                "Capacité (en L) partie congélateur": null,
+                "Capacité (en L) partie réfrigérateur": null,
+                "Capacité (en nombre de feux) si cuisinière": ""
+            },
+            "selling_picture_1": "https://res.cloudinary.com/cobble/image/upload/v1592571412/PHOTOS%20RECO/2-PHOTOS%20TRAIT%C3%89ES/1611_Face.jpg",
+            "selling_picture_2": "",
+            "selling_picture_3": "",
+            "selling_picture_4": "",
+            "selling_picture_5": ""
+        },
+
     ]
-}
