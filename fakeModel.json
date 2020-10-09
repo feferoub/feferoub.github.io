@@ -1,0 +1,17 @@
+{ 
+    "brand": "Machine de Test",
+    "brand_slug": "machine",
+    "model_reference": " EEC5799BOX",
+    "model_reference_slug": "test",
+    "product_type": "Four & cuisinière",
+    "product_type_slug": "four-cuisiniere",
+    "commercial_category": "standard",
+    "commercial_category_slug": "standard",
+    "subcategory1": "Four multifonction pyrolyse",
+    "subcategory2": "Encastrable simple",
+    "appearance": "Bon état",
+    "appearance_slug": "correct_condition",
+    "appearance_comments": "une trace noire sur la portière",
+    "market_selling_price": 52800,
+    "best_price": 37900
+}
