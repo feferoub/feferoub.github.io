@@ -2,8 +2,8 @@
   "description": "Friendly OpenSea Creature that enjoys long swims in the ocean.",
   "image": "https://storage.googleapis.com/opensea-prod.appspot.com/puffs/3.png",
   "name": "Dave Starbelly",
-  "attack": 4,
-  "level": 9,
+  "attack": 3,
+  "level": 50,
   "attributes": [
     {
       "trait_type": "Level",
