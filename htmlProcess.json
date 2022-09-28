@@ -1,0 +1,691 @@
+{
+  "uuid": "e854c84f-ab35-4be4-99b4-e74278f5025a",
+  "community": ["095d31d2-058e-4bb5-98e7-72d255b76e00"],
+  "zone": ["f9520626-cb3c-49ff-a0cc-400402de122b"],
+  "version": 0,
+  "hash": "012192be9e2ea17eda3020c20046786a86480d0c3f47f1d836441a20e1d7ffc4",
+  "serviceList": ["1956b886-0986-4ffe-aac8-39ea14a9b161", "onboarding"],
+  "termList": [],
+  "computing": [],
+  "state": [],
+  "conditions": [
+    {
+      "type": "backup",
+      "usagetype": "service",
+      "hash": "",
+      "pseudoList": ["InFINITy", "iPaNiiCz", "MerCifieD"],
+      "pseudoListRequired": [],
+      "eligiblityMinScore": 0,
+      "eligiblityComputingPcd": "",
+      "min": 0,
+      "quotaMinPer": 0,
+      "quotaWait": 0,
+      "dataIndexList": [],
+      "metaDataIndexList": [],
+      "resultIndexList": [],
+      "programIndexList": [],
+      "proofList": [],
+      "childList": [],
+      "transferList": [],
+      "nftList": [],
+      "voteList": [],
+      "delay": {
+        "beforeDate": 0,
+        "beforeUnit": 0,
+        "afterDate": 0,
+        "afterUnit": 0
+      },
+      "pay": {
+        "amount": 0,
+        "paymentMethod": "",
+        "paidByRoleList": [],
+        "paidToRoleList": [],
+        "payProcessValidationList": [],
+        "delay": {
+          "beforeDate": 0,
+          "beforeUnit": 0,
+          "afterDate": 0,
+          "afterUnit": 0
+        }
+      },
+      "valitionCallback": [""]
+    },
+    {
+      "type": "lock",
+      "usagetype": "service",
+      "hash": "",
+      "pseudoList": ["NuvkleZ", "OwnZ", "ReLaoDeD"],
+      "pseudoListRequired": [],
+      "eligiblityMinScore": 0,
+      "eligiblityComputingPcd": "",
+      "min": 0,
+      "quotaMinPer": 0,
+      "quotaWait": 0,
+      "dataIndexList": [],
+      "metaDataIndexList": [],
+      "resultIndexList": [],
+      "programIndexList": [],
+      "proofList": [],
+      "childList": [],
+      "transferList": [],
+      "nftList": [],
+      "voteList": [],
+      "delay": {
+        "beforeDate": 0,
+        "beforeUnit": 0,
+        "afterDate": 0,
+        "afterUnit": 0
+      },
+      "pay": {
+        "amount": 0,
+        "paymentMethod": "",
+        "paidByRoleList": [],
+        "paidToRoleList": [],
+        "payProcessValidationList": [],
+        "delay": {
+          "beforeDate": 0,
+          "beforeUnit": 0,
+          "afterDate": 0,
+          "afterUnit": 0
+        }
+      },
+      "valitionCallback": [""]
+    },
+    {
+      "type": "publicOfficer",
+      "usagetype": "service",
+      "hash": "",
+      "pseudoList": ["Anastasia", "Bullet", "Cardiac"],
+      "pseudoListRequired": [],
+      "eligiblityMinScore": 0,
+      "eligiblityComputingPcd": "",
+      "min": 0,
+      "quotaMinPer": 0,
+      "quotaWait": 0,
+      "dataIndexList": [],
+      "metaDataIndexList": [],
+      "resultIndexList": [],
+      "programIndexList": [],
+      "proofList": [],
+      "childList": [],
+      "transferList": [],
+      "nftList": [],
+      "voteList": [],
+      "delay": {
+        "beforeDate": 0,
+        "beforeUnit": 0,
+        "afterDate": 0,
+        "afterUnit": 0
+      },
+      "pay": {
+        "amount": 0,
+        "paymentMethod": "",
+        "paidByRoleList": [],
+        "paidToRoleList": [],
+        "payProcessValidationList": [],
+        "delay": {
+          "beforeDate": 0,
+          "beforeUnit": 0,
+          "afterDate": 0,
+          "afterUnit": 0
+        }
+      },
+      "valitionCallback": [""]
+    },
+    {
+      "type": "backup",
+      "usagetype": "service",
+      "hash": "",
+      "pseudoList": ["InFINITy", "iPaNiiCz", "MerCifieD"],
+      "pseudoListRequired": [],
+      "eligiblityMinScore": 0,
+      "eligiblityComputingPcd": "",
+      "min": 0,
+      "quotaMinPer": 0,
+      "quotaWait": 0,
+      "dataIndexList": [],
+      "metaDataIndexList": [],
+      "resultIndexList": [],
+      "programIndexList": [],
+      "proofList": [],
+      "childList": [],
+      "transferList": [],
+      "nftList": [],
+      "voteList": [],
+      "delay": {
+        "beforeDate": 0,
+        "beforeUnit": 0,
+        "afterDate": 0,
+        "afterUnit": 0
+      },
+      "pay": {
+        "amount": 0,
+        "paymentMethod": "",
+        "paidByRoleList": [],
+        "paidToRoleList": [],
+        "payProcessValidationList": [],
+        "delay": {
+          "beforeDate": 0,
+          "beforeUnit": 0,
+          "afterDate": 0,
+          "afterUnit": 0
+        }
+      },
+      "valitionCallback": [""]
+    },
+    {
+      "type": "lock",
+      "usagetype": "service",
+      "hash": "",
+      "pseudoList": ["NuvkleZ", "OwnZ", "ReLaoDeD"],
+      "pseudoListRequired": [],
+      "eligiblityMinScore": 0,
+      "eligiblityComputingPcd": "",
+      "min": 0,
+      "quotaMinPer": 0,
+      "quotaWait": 0,
+      "dataIndexList": [],
+      "metaDataIndexList": [],
+      "resultIndexList": [],
+      "programIndexList": [],
+      "proofList": [],
+      "childList": [],
+      "transferList": [],
+      "nftList": [],
+      "voteList": [],
+      "delay": {
+        "beforeDate": 0,
+        "beforeUnit": 0,
+        "afterDate": 0,
+        "afterUnit": 0
+      },
+      "pay": {
+        "amount": 0,
+        "paymentMethod": "",
+        "paidByRoleList": [],
+        "paidToRoleList": [],
+        "payProcessValidationList": [],
+        "delay": {
+          "beforeDate": 0,
+          "beforeUnit": 0,
+          "afterDate": 0,
+          "afterUnit": 0
+        }
+      },
+      "valitionCallback": [""]
+    },
+    {
+      "type": "lock",
+      "usagetype": "service",
+      "hash": "",
+      "pseudoList": ["NuvkleZ", "OwnZ", "ReLaoDeD"],
+      "pseudoListRequired": [],
+      "eligiblityMinScore": 0,
+      "eligiblityComputingPcd": "",
+      "min": 0,
+      "quotaMinPer": 0,
+      "quotaWait": 0,
+      "dataIndexList": [],
+      "metaDataIndexList": [],
+      "resultIndexList": [],
+      "programIndexList": [],
+      "proofList": [],
+      "childList": [],
+      "transferList": [],
+      "nftList": [],
+      "voteList": [],
+      "delay": {
+        "beforeDate": 0,
+        "beforeUnit": 0,
+        "afterDate": 0,
+        "afterUnit": 0
+      },
+      "pay": {
+        "amount": 0,
+        "paymentMethod": "",
+        "paidByRoleList": [],
+        "paidToRoleList": [],
+        "payProcessValidationList": [],
+        "delay": {
+          "beforeDate": 0,
+          "beforeUnit": 0,
+          "afterDate": 0,
+          "afterUnit": 0
+        }
+      },
+      "valitionCallback": [""]
+    },
+    {
+      "type": "publicOfficer",
+      "usagetype": "service",
+      "hash": "",
+      "pseudoList": ["Anastasia", "Bullet", "Cardiac"],
+      "pseudoListRequired": [],
+      "eligiblityMinScore": 0,
+      "eligiblityComputingPcd": "",
+      "min": 0,
+      "quotaMinPer": 0,
+      "quotaWait": 0,
+      "dataIndexList": [],
+      "metaDataIndexList": [],
+      "resultIndexList": [],
+      "programIndexList": [],
+      "proofList": [],
+      "childList": [],
+      "transferList": [],
+      "nftList": [],
+      "voteList": [],
+      "delay": {
+        "beforeDate": 0,
+        "beforeUnit": 0,
+        "afterDate": 0,
+        "afterUnit": 0
+      },
+      "pay": {
+        "amount": 0,
+        "paymentMethod": "",
+        "paidByRoleList": [],
+        "paidToRoleList": [],
+        "payProcessValidationList": [],
+        "delay": {
+          "beforeDate": 0,
+          "beforeUnit": 0,
+          "afterDate": 0,
+          "afterUnit": 0
+        }
+      },
+      "valitionCallback": [""]
+    },
+    {
+      "type": "publicOfficer",
+      "usagetype": "service",
+      "hash": "",
+      "pseudoList": ["Anastasia", "Bullet", "Cardiac"],
+      "pseudoListRequired": [],
+      "eligiblityMinScore": 0,
+      "eligiblityComputingPcd": "",
+      "min": 0,
+      "quotaMinPer": 0,
+      "quotaWait": 0,
+      "dataIndexList": [],
+      "metaDataIndexList": [],
+      "resultIndexList": [],
+      "programIndexList": [],
+      "proofList": [],
+      "childList": [],
+      "transferList": [],
+      "nftList": [],
+      "voteList": [],
+      "delay": {
+        "beforeDate": 0,
+        "beforeUnit": 0,
+        "afterDate": 0,
+        "afterUnit": 0
+      },
+      "pay": {
+        "amount": 0,
+        "paymentMethod": "",
+        "paidByRoleList": [],
+        "paidToRoleList": [],
+        "payProcessValidationList": [],
+        "delay": {
+          "beforeDate": 0,
+          "beforeUnit": 0,
+          "afterDate": 0,
+          "afterUnit": 0
+        }
+      },
+      "valitionCallback": [""]
+    },
+    {
+      "type": "member",
+      "usagetype": "service",
+      "hash": "",
+      "pseudoList": ["Diapers", "Escobar", "Forensics"],
+      "pseudoListRequired": [],
+      "eligiblityMinScore": 0,
+      "eligiblityComputingPcd": "",
+      "min": 0,
+      "quotaMinPer": 0,
+      "quotaWait": 0,
+      "dataIndexList": [],
+      "metaDataIndexList": [],
+      "resultIndexList": [],
+      "programIndexList": [],
+      "proofList": [],
+      "childList": [],
+      "transferList": [],
+      "nftList": [],
+      "voteList": [],
+      "delay": {
+        "beforeDate": 0,
+        "beforeUnit": 0,
+        "afterDate": 0,
+        "afterUnit": 0
+      },
+      "pay": {
+        "amount": 0,
+        "paymentMethod": "",
+        "paidByRoleList": [],
+        "paidToRoleList": [],
+        "payProcessValidationList": [],
+        "delay": {
+          "beforeDate": 0,
+          "beforeUnit": 0,
+          "afterDate": 0,
+          "afterUnit": 0
+        }
+      },
+      "valitionCallback": [""]
+    },
+    {
+      "type": "validator",
+      "usagetype": "service",
+      "hash": "",
+      "pseudoList": ["Hoptoad", "Illuminatus", "Janste"],
+      "pseudoListRequired": [],
+      "eligiblityMinScore": 0,
+      "eligiblityComputingPcd": "",
+      "min": 2,
+      "quotaMinPer": 0,
+      "quotaWait": 0,
+      "dataIndexList": [],
+      "metaDataIndexList": [],
+      "resultIndexList": [],
+      "programIndexList": [],
+      "proofList": [],
+      "childList": [],
+      "transferList": [],
+      "nftList": [],
+      "voteList": [],
+      "delay": {
+        "beforeDate": 0,
+        "beforeUnit": 0,
+        "afterDate": 0,
+        "afterUnit": 0
+      },
+      "pay": {
+        "amount": 0,
+        "paymentMethod": "",
+        "paidByRoleList": [],
+        "paidToRoleList": [],
+        "payProcessValidationList": [],
+        "delay": {
+          "beforeDate": 0,
+          "beforeUnit": 0,
+          "afterDate": 0,
+          "afterUnit": 0
+        }
+      },
+      "valitionCallback": [""]
+    },
+    {
+      "type": "cert",
+      "usagetype": "service",
+      "hash": "",
+      "pseudoList": ["Krush", "Messih", "Mooney"],
+      "pseudoListRequired": [],
+      "eligiblityMinScore": 0,
+      "eligiblityComputingPcd": "",
+      "min": 2,
+      "quotaMinPer": 0,
+      "quotaWait": 0,
+      "dataIndexList": [],
+      "metaDataIndexList": [],
+      "resultIndexList": [],
+      "programIndexList": [],
+      "proofList": [],
+      "childList": [],
+      "transferList": [],
+      "nftList": [],
+      "voteList": [],
+      "delay": {
+        "beforeDate": 0,
+        "beforeUnit": 0,
+        "afterDate": 0,
+        "afterUnit": 0
+      },
+      "pay": {
+        "amount": 0,
+        "paymentMethod": "",
+        "paidByRoleList": [],
+        "paidToRoleList": [],
+        "payProcessValidationList": [],
+        "delay": {
+          "beforeDate": 0,
+          "beforeUnit": 0,
+          "afterDate": 0,
+          "afterUnit": 0
+        }
+      },
+      "valitionCallback": [""]
+    },
+    {
+      "type": "certList",
+      "usagetype": "service",
+      "hash": "",
+      "pseudoList": ["Neal", "Necrew", "Ownage"],
+      "pseudoListRequired": [],
+      "eligiblityMinScore": 0,
+      "eligiblityComputingPcd": "",
+      "min": 0,
+      "quotaMinPer": 0,
+      "quotaWait": 0,
+      "dataIndexList": [],
+      "metaDataIndexList": [],
+      "resultIndexList": [],
+      "programIndexList": [],
+      "proofList": [],
+      "childList": [],
+      "transferList": [],
+      "nftList": [],
+      "voteList": [],
+      "delay": {
+        "beforeDate": 0,
+        "beforeUnit": 0,
+        "afterDate": 0,
+        "afterUnit": 0
+      },
+      "pay": {
+        "amount": 0,
+        "paymentMethod": "",
+        "paidByRoleList": [],
+        "paidToRoleList": [],
+        "payProcessValidationList": [],
+        "delay": {
+          "beforeDate": 0,
+          "beforeUnit": 0,
+          "afterDate": 0,
+          "afterUnit": 0
+        }
+      },
+      "valitionCallback": [""]
+    },
+    {
+      "type": "processList",
+      "usagetype": "service",
+      "hash": "",
+      "pseudoList": ["Rostov", "Thug", "Thumb"],
+      "pseudoListRequired": [],
+      "eligiblityMinScore": 0,
+      "eligiblityComputingPcd": "",
+      "min": 0,
+      "quotaMinPer": 0,
+      "quotaWait": 0,
+      "dataIndexList": [],
+      "metaDataIndexList": [],
+      "resultIndexList": [],
+      "programIndexList": [],
+      "proofList": [],
+      "childList": [],
+      "transferList": [],
+      "nftList": [],
+      "voteList": [],
+      "delay": {
+        "beforeDate": 0,
+        "beforeUnit": 0,
+        "afterDate": 0,
+        "afterUnit": 0
+      },
+      "pay": {
+        "amount": 0,
+        "paymentMethod": "",
+        "paidByRoleList": [],
+        "paidToRoleList": [],
+        "payProcessValidationList": [],
+        "delay": {
+          "beforeDate": 0,
+          "beforeUnit": 0,
+          "afterDate": 0,
+          "afterUnit": 0
+        }
+      },
+      "valitionCallback": [""]
+    },
+    {
+      "type": "itemList",
+      "usagetype": "service",
+      "hash": "",
+      "pseudoList": ["Vendetta", "Yelawolf", "Zeus"],
+      "pseudoListRequired": [],
+      "eligiblityMinScore": 0,
+      "eligiblityComputingPcd": "",
+      "min": 0,
+      "quotaMinPer": 0,
+      "quotaWait": 0,
+      "dataIndexList": [],
+      "metaDataIndexList": [],
+      "resultIndexList": [],
+      "programIndexList": [],
+      "proofList": [],
+      "childList": [],
+      "transferList": [],
+      "nftList": [],
+      "voteList": [],
+      "delay": {
+        "beforeDate": 0,
+        "beforeUnit": 0,
+        "afterDate": 0,
+        "afterUnit": 0
+      },
+      "pay": {
+        "amount": 0,
+        "paymentMethod": "",
+        "paidByRoleList": [],
+        "paidToRoleList": [],
+        "payProcessValidationList": [],
+        "delay": {
+          "beforeDate": 0,
+          "beforeUnit": 0,
+          "afterDate": 0,
+          "afterUnit": 0
+        }
+      },
+      "valitionCallback": [""]
+    },
+    {
+      "type": "peerList",
+      "usagetype": "service",
+      "hash": "",
+      "pseudoList": ["Zookeeper", "2Late", "Adren4lynne"],
+      "pseudoListRequired": [],
+      "eligiblityMinScore": 0,
+      "eligiblityComputingPcd": "",
+      "min": 0,
+      "quotaMinPer": 0,
+      "quotaWait": 0,
+      "dataIndexList": [],
+      "metaDataIndexList": [],
+      "resultIndexList": [],
+      "programIndexList": [],
+      "proofList": [],
+      "childList": [],
+      "transferList": [],
+      "nftList": [],
+      "voteList": [],
+      "delay": {
+        "beforeDate": 0,
+        "beforeUnit": 0,
+        "afterDate": 0,
+        "afterUnit": 0
+      },
+      "pay": {
+        "amount": 0,
+        "paymentMethod": "",
+        "paidByRoleList": [],
+        "paidToRoleList": [],
+        "payProcessValidationList": [],
+        "delay": {
+          "beforeDate": 0,
+          "beforeUnit": 0,
+          "afterDate": 0,
+          "afterUnit": 0
+        }
+      },
+      "valitionCallback": [""]
+    },
+    {
+      "type": "idList",
+      "usagetype": "service",
+      "hash": "",
+      "pseudoList": ["FuRii0uS", "H0STiLi7i", "Hir0"],
+      "pseudoListRequired": [],
+      "eligiblityMinScore": 0,
+      "eligiblityComputingPcd": "",
+      "min": 0,
+      "quotaMinPer": 0,
+      "quotaWait": 0,
+      "dataIndexList": [],
+      "metaDataIndexList": [],
+      "resultIndexList": [],
+      "programIndexList": [],
+      "proofList": [],
+      "childList": [],
+      "transferList": [],
+      "nftList": [],
+      "voteList": [],
+      "delay": {
+        "beforeDate": 0,
+        "beforeUnit": 0,
+        "afterDate": 0,
+        "afterUnit": 0
+      },
+      "pay": {
+        "amount": 0,
+        "paymentMethod": "",
+        "paidByRoleList": [],
+        "paidToRoleList": [],
+        "payProcessValidationList": [],
+        "delay": {
+          "beforeDate": 0,
+          "beforeUnit": 0,
+          "afterDate": 0,
+          "afterUnit": 0
+        }
+      },
+      "valitionCallback": [""]
+    }
+  ],
+  "webPresentation": {
+    "htmlList": [
+      "PGh0bWwgbGFuZz0iZW4iPgogIDxoZWFkPgogICAgPG1ldGEgY2hhcnNldD0iVVRGLTgiIC8+CiAgICA8bWV0YSBuYW1lPSJ2aWV3cG9ydCIgY29udGVudD0id2lkdGg9ZGV2aWNlLXdpZHRoLCBpbml0aWFsLXNjYWxlPTEuMCIgLz4KICAgIDx0aXRsZT5IdG1sIHByb2Nlc3M8L3RpdGxlPgogIDwvaGVhZD4KICA8Ym9keT4KICA8aDE+SSdtIHRoZSBIVE1MIHByb2Nlc3M8L2gxPgogIDwvYm9keT4KPC9odG1sPg=="
+    ],
+    "imgList": [],
+    "jsList": [],
+    "cssList": []
+  },
+  "change": {
+    "createList": [],
+    "updateList": [],
+    "issueList": [],
+    "reIssueList": [],
+    "freezeList": [],
+    "otherList": [],
+    "newNodeList": [],
+    "forkList": []
+  },
+  "proof": {
+    "sigList": [],
+    "certList": []
+  }
+}
